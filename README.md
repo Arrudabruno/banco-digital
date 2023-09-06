@@ -1,4 +1,4 @@
-# banco-digital
+# Banco-Digital
 Projeto feito para realização do desafio do segundo módulo do curso da Cubos Academy.
 
 ## O projeto é capaz de:
